@@ -173,7 +173,7 @@ void loop() {
   //These are ending message↓
   Serial.println(" ");
   Serial.println("All specification mesurements are done.");
-  benchtime = millis - 5000;
+  benchtime = millis() - 5000;
   Serial.print("This is a time of wroking time : ");
   Serial.print(benchtime);
   Serial.println(" ms");

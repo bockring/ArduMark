@@ -7,9 +7,11 @@ If you want to download, go to https://github.com/bockring/ArduMark/releases
 
 | Version | Supported          |
 | ------- | ------------------ |
-|v4| :white_check_mark: |
-|v3| :white_check_mark: |
-|v2| :x:                |
+| LTS V1.0 | :white_check_mark: |
+| v5 | :x: |
+| v4 | :x: |
+| v3 | :x: |
+| v2 | :x:                |
 
 ## How to Report a Vulnerability or a bug
 

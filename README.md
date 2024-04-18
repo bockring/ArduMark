@@ -11,7 +11,7 @@ This software (hereinafter referred to as this software) measures the performanc
 This software can be used by everyone with this data file. In addition, this software can be used free of charge, but secondary distribution, copying, falsification, etc. are prohibited.
 
 3.How to use
-To use this software, first load "ArduMark_v◯.ino"(◯ contains version number) in the folder with this "readme.txt" into the Arduino IDE, specify your board, and then open the serial monitor. Write on the board from. After that, the serial monitor displays a string of copyright notice at the same time as the software is launched. The benchmark will end soon after that. The number "Score: ◯◯◯" (◯ contains numbers, not always 3 digits) at the bottom of the string is the value that indicates the performance of your Arduino. In addition, this operation will be performed every time you connect to your PC.
+To use this software, first load "ArduMark_V◯.◯(LTS).ino"(◯ contains version number) in the folder with this "readme.txt" into the Arduino IDE, specify your board, and then open the serial monitor. Write on the board from. After that, the serial monitor displays a string of copyright notice at the same time as the software is launched. The benchmark will end soon after that. The number "Score: ◯◯◯" (◯ contains numbers, not always 3 digits) at the bottom of the string is the value that indicates the performance of your Arduino. In addition, this operation will be performed every time you connect to your PC.
 
 4.About use
 Bockring, the creator of this software, is not responsible for any problems caused by the use of this software. Please understand that point in advance.
@@ -33,7 +33,7 @@ Unauthorized reproduction and reproduction are prohibited
 当ソフトはこのデータファイルを持つ全員がご利用いただけます。なお当ソフトは無料でご利用いただけますが、2次配布や、コピー、改ざん等の行為を禁止とします。
 
 ③利用方法
-当ソフトのご利用については、まずこの「readme.txt」のあるフォルダ内にある、「ArduMark_v◯.ino」(◯にはバージョンナンバーが入ります)をArduino IDEに読み込み、ご使用のボードの指定後、シリアルモニタを開いてからボードに書き込みます。その後、シリアルモニタには、ソフトウェアの起動と同時に著作権表示の文字列が表示されます。そのすぐ後にベンチマークは終了します。文字列下部の「Score : ◯◯◯」(◯には数字が入ります、常に3桁とは限りません)の数字がご使用のArduinoの性能を示す値です。なお、ご使用のPCに接続するたびにこの操作は実行されます。
+当ソフトのご利用については、まずこの「readme.txt」のあるフォルダ内にある、「ArduMark_V◯.◯(LTS).ino」(◯にはバージョンナンバーが入ります)をArduino IDEに読み込み、ご使用のボードの指定後、シリアルモニタを開いてからボードに書き込みます。その後、シリアルモニタには、ソフトウェアの起動と同時に著作権表示の文字列が表示されます。そのすぐ後にベンチマークは終了します。文字列下部の「Score : ◯◯◯」(◯には数字が入ります、常に3桁とは限りません)の数字がご使用のArduinoの性能を示す値です。なお、ご使用のPCに接続するたびにこの操作は実行されます。
 
 ④ご利用について
 当ソフト作成者であるbockringは、当ソフトのご利用による問題等の責任は負いかねます。その点はあらかじめご了承ください。

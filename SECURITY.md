@@ -9,10 +9,7 @@ If you want to download, go to https://github.com/bockring/ArduMark/releases
 | -------- | ------------------ |
 | LTS V1.1 | :white_check_mark: |
 | LTS V1.0 | :white_check_mark: |
-|    v5    |        :x:         |
-|    v4    |        :x:         |
-|    v3    |        :x:         |
-|    v2    |        :x:         |
+|    ~v5   |        :x:         |
 
 ## How to Report a Vulnerability or a bug
 

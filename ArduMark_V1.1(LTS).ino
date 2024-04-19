@@ -107,7 +107,7 @@ void loop() {
   //Square root calculation starting
   digitalWrite(13, HIGH);
   for (count = 0; count < 32768; count ++) {
-    random1 = random(-255, 255); //Generate random number
+    random1 = random(2, 255); //Generate random number
     random2 = random1 - 1;
     random1 = sqrt(random1);
     random2 = sqrt(random2);

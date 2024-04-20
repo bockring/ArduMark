@@ -1,11 +1,10 @@
 /*
   This is ArduMark V1.1 by @bockring. Don't copy this.
-  But if you credit, you can edit and share your one.(Open source software)
-   From this version, ArduMark softwares are LTS(Long-Time-Support edition).
+  But if you credit, you can edit and share your one.(Open Source Software)
 
   Credit like this
   "
-  This program was edited and remixed by XXXX(Your name).
+  This program was remixed by XXXX(Your name).
   Remix source:https://github.com/bockring/ArduMark.git
   "
   Again, YOU HAVE TO CRADIT if you edit and share this.

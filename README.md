@@ -1,8 +1,4 @@
 # ArduMark
-(日本語は下へスクロール)
-
-[EN]
-*This description is translated by machine from Japanese. I'm sorry for some words sometimes wrong.
 
 1.About
 This software (hereinafter referred to as this software) measures the performance of boards corresponding to the Arduino language created using the Arduino language by bockring.
@@ -24,24 +20,3 @@ Please contact us by e-mail. We will respond within a maximum of 1 week. Also, p
 
 Copyright @bockring 2024~
 Unauthorized reproduction and reproduction are prohibited
-
-[JA]
-①概要
-このソフトウェア(以後、当ソフト)は、bockringによって、Arduino言語を用いて作成されたArduino言語に対応するボードの性能の測定をするものです。
-
-②利用資格
-当ソフトはこのデータファイルを持つ全員がご利用いただけます。なお当ソフトは無料でご利用いただけますが、2次配布や、コピー、改ざん等の行為を禁止とします。
-
-③利用方法
-当ソフトのご利用については、まずこの「readme.txt」のあるフォルダ内にある、「ArduMark_V◯.◯(LTS).ino」(◯にはバージョンナンバーが入ります)をArduino IDEに読み込み、ご使用のボードの指定後、シリアルモニタを開いてからボードに書き込みます。その後、シリアルモニタには、ソフトウェアの起動と同時に著作権表示の文字列が表示されます。そのすぐ後にベンチマークは終了します。文字列下部の「Score : ◯◯◯」(◯には数字が入ります、常に3桁とは限りません)の数字がご使用のArduinoの性能を示す値です。なお、ご使用のPCに接続するたびにこの操作は実行されます。
-
-④ご利用について
-当ソフト作成者であるbockringは、当ソフトのご利用による問題等の責任は負いかねます。その点はあらかじめご了承ください。
-
-⑤サポート
-ご利用にあたって、何か不都合がありましたら、
-bockring.scratcher@gmail.com
-までEmailでお申し付けください。最長1週間以内に対応いたします。また、バグなどの報告もこちらのメールアドレスへお申し付けください。
-
-Copyright @bockring 2024~
-無断転載・複製を禁ず

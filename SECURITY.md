@@ -7,6 +7,7 @@ If you want to download, go to https://github.com/bockring/ArduMark/releases
 
 | Versions | Supported          |
 | -------- | ------------------ |
+| LTS V2.0 | :white_check_mark: |
 | LTS V1.1 | :white_check_mark: |
 | LTS V1.0 | :white_check_mark: |
 |    ~v5   |        :x:         |

@@ -12,9 +12,9 @@ If you want to download, go to https://github.com/bockring/ArduMark/releases
 | LTS V1.0 | :white_check_mark: |
 |    ~v5   |        :x:         |
 
-## How to Report a Vulnerability or a bug
+## How to Report a Vulnerability or a Bug
 
-User sometimes find a vulnerability or a bug. In that case, please send e-mail to me as soon as you can.(In the case of vulnerbility, don't tell to other person.)
-Then I will stop sharing and I start debugs. After that, I will send you message of finishing debugs and I will appreciate.
+Users sometimes find a vulnerability or a bug. In that case, please send an e-mail to me as soon as you can. (In the case of vulnerability, don't tell to other person.)
+Then I will stop sharing and I start debugging. After that, I will send you a message about finishing debugs and I will appreciate it.
 
-My e-mail address : bockring.scratcher@gmail.com
+My e-mail address: bockring.scratcher@gmail.com

@@ -4,12 +4,16 @@
 This is a released version and supporting status.
 If you want to download, go to https://github.com/bockring/ArduMark/releases
 
-| Versions | Supported or Not   |
-| -------: | :----------------- |
+| Versions | Supporting Status |
+| -: | :- |
+| [LTS V2.1](https://github.com/bockring/ArduMark/releases) | :white_check_mark: |
 | LTS V2.0 | :white_check_mark: |
 | LTS V1.1 | :white_check_mark: |
 | LTS V1.0 | :white_check_mark: |
-|    ~v5   |        :x:         |
+| ~v5 | :x: |
+
+**From LTS V2.1, you can run on TeraTerm software(9600bps).**
+
 
 ## How to Report a Vulnerability or a Bug
 Users sometimes find a vulnerability or a bug. In that case, please send an e-mail to me as soon as you can. (In the case of vulnerability, don't tell to other person.)

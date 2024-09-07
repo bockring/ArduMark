@@ -44,7 +44,7 @@ unsigned long score; //Score
 unsigned long calcpros; //Save one time calculation
 
 void setup() {
-  Serial.begin(9600); //Start serial connection(9600bps)
+  Serial.begin(9600); //Start serial connection(on 9600bps)
 }
 
 void loop() {
